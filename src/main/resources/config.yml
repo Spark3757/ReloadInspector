@@ -1,0 +1,7 @@
+# Plugins in this list are ignored
+exclude:
+  - 'WorldGuard'
+  - 'Essentials'
+
+# If this option is set to true the server restarts in case of any changes to plugins.
+full_reload: false

@@ -1,0 +1,6 @@
+name: ReloadInspector
+version: ${project.version}
+main: ru.spark.reloadinspector.ReloadInspector
+author: Spark1337
+website: https://github.com/Spark3757/ReloadInspector
+api-version: 1.13
